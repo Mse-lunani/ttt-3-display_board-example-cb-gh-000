@@ -3,3 +3,6 @@ def display_board
   3.times do
     puts"___|___|___\n"
   end
+end
+
+display_board
